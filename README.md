@@ -36,7 +36,7 @@ Business-Intelligence-Sales-Analytics
 │   └── customer_shopping_behavior.csv
 │
 ├── sql/
-│   └── customer_behavior_analysis.sql
+│   └── customer_behavior_sql_queries.sql
 │
 ├── notebooks/
 │   └── sales_analytics.ipynb
@@ -49,10 +49,6 @@ Business-Intelligence-Sales-Analytics
 │   ├── Final_Report.pdf
 │   └── Presentation.pdf
 │
-├── images/
-│   ├── dashboard.png
-│   ├── customer_segments.png
-│   └── sales_trends.png
 │
 └── README.md
 ```
@@ -118,15 +114,7 @@ Business-Intelligence-Sales-Analytics
 
 ---
 
-## 📸 Dashboard Preview
 
-> *(Add screenshots from your Power BI dashboard here.)*
-
-Example:
-
-![Dashboard](images/dashboard.png)
-
----
 
 ## 🎯 Skills Demonstrated
 
